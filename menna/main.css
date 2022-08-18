@@ -1,0 +1,36 @@
+
+.A{
+    background-color: antiquewhite;
+    display :flex;
+    width: 1200px;
+    justify-content: space-around;
+    align-items: center;
+list-style: none;
+text-decoration:none;
+border-radius: 5px;
+flex-direction: row;
+}
+.B{
+    background-color: rgb(250, 215, 239);
+    justify-content: space-around;
+    align-items:flex-start;
+list-style:none;
+display :flex;
+max-width: 1200PX;
+}
+.ll{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: none;
+    background-position: center;
+    position: relative;
+}
+.Lo{
+    margin: auto;
+    padding: auto;
+}
+.photo{
+    background-size: cover;
+    
+}
